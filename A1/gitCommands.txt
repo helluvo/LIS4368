@@ -1,0 +1,21 @@
+git init
+-Initializes a new Git repository. 
+
+git status
+-Displays the state of the working directory
+
+git add
+-Adds changes in the working directory to the staging area
+
+git commit
+-Records changes from the staging area in the version history
+
+git push
+=Pushes local changes to a remote repository
+
+git pull
+-Fetches changes from a remote repository and merges them into the current branch.
+
+git log
+-Shows the commit history of the repository
+
