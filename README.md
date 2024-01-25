@@ -1,8 +1,8 @@
 > **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
 
-# Class number and name
+# LIS4368 Advanced Web Applications Development
 
-## Your name
+## Hanna Rojo
 
 ### Class Number Requirements:
 
