@@ -20,9 +20,6 @@
     - git commands w/short descriptions
     - Bitbucket repo links
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
 >
 > #### Git commands w/short descriptions:
 
@@ -52,11 +49,11 @@ git log
 
 *Screenshot of running http://localhost:9999*:
 
-![localhost:9999 Screenshot]("C:\Users\hanna\repos\lis4368\A1\img\javaHello.png")
+![localhost:9999 Screenshot](file:///C:/Users/hanna/repos/lis4368/A1/img/javaHello.png)
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot]("C:\Users\hanna\repos\lis4368\A1\img\localhost9999.png")
+![JDK Installation Screenshot](file:///C:/Users/hanna/repos/lis4368/A1/img/localhost9999.png)
 
 
 
