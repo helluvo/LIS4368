@@ -52,11 +52,11 @@ git log
 
 *Screenshot of running http://localhost:9999*:
 
-![localhost:9999 Screenshot](C:/Users/hanna/repos/lis4368/A1/img/localhost9999.png)
+![localhost:9999 Screenshot]("C:\Users\hanna\repos\lis4368\A1\img\javaHello.png")
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](C:/Users/hanna/repos/lis4368/A1/img/javaHello.png)
+![JDK Installation Screenshot]("C:\Users\hanna\repos\lis4368\A1\img\localhost9999.png")
 
 
 
