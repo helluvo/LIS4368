@@ -22,15 +22,15 @@
 
 *Screenshot of queryBook*:
 
-![queryBook Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/queryBook.png)
+![queryBook Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/queryBook.png)
 
 *Screenshot of queryResults*:
 
-![queryResults Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/queryResults.png)
+![queryResults Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/queryResults.png)
 
-![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/a21.png)
+![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/a21.png)
 
-![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/a22.png)
+![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/a22.png)
 
 
 
