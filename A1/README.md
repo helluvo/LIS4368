@@ -9,58 +9,37 @@
 
 ### Assignment # Requirements:
 
-*Sub-Heading:*
-
-
 #### README.md file should include the following items:
 
-    - Screenshot of running java Hello
-    - Screenshot of running http://localhost:9999 
-    - Screenshot of a1/index.jsp
-    - git commands w/short descriptions
-    - Bitbucket repo links
+    - Assessment links (as above), and
+    - screenshots of: querybook.html
+    - queryresults
+    - a2/index.jsp file
 
 >
-> #### Git commands w/short descriptions:
-
-git init
--Initializes a new Git repository. 
-
-git status
--Displays the state of the working directory
-
-git add
--Adds changes in the working directory to the staging area
-
-git commit
--Records changes from the staging area in the version history
-
-git push
-=Pushes local changes to a remote repository
-
-git pull
--Fetches changes from a remote repository and merges them into the current branch.
-
-git log
--Shows the commit history of the repository
-
 
 #### Assignment Screenshots:
 
-*Screenshot of running http://localhost:9999*:
+*Screenshot of queryBook*:
 
-![localhost:9999 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A1/javaHello.png)
+![queryBook Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/queryBook.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of queryResults*:
 
-![JDK Installation Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A1/localhost9999.png)
+![queryResults Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/queryResults.png)
+
+![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/a21.png)
+
+![a2/index.jsp Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A2/a22.png)
 
 
 
 #### Tutorial Links:
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/hsr21a726/bitbucketstationlocations/src/main/)
+[http://localhost:9999/hello](http://localhost:9999/hello)
 
-*A1 Link*
-[A1 Link](https://bitbucket.org/hsr21a726/lis4368/src/master/A1/)
+[http://localhost:9999/hello/HelloHome.html](http://localhost:9999/hello/HelloHome.html)
+
+[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
+
+[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
