@@ -15,7 +15,9 @@
     - Bitbucket repo links
 
 2. [A2 README.md](A2/README.md "My A2 README.md file")
-    -TBD
+    - MySQL Installation
+    - Compiling and Using Servlets
+    - Database Connectivity Using Servlets
 
 3. [A3 README.md](A3/README.md "My A3 README.md file")
     -TBD
