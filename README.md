@@ -20,4 +20,9 @@
     - Database Connectivity Using Servlets
 
 3. [A3 README.md](A3/README.md "My A3 README.md file")
-    -TBD
+    - Create ERD on MySQL
+    - Successfully forward engineer it
+    - Export .mwb and .sql files
+    - ERD screenshots
+
+4. [P1 README.md](P1/README.md "My P1 README.md file")

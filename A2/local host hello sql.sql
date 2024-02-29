@@ -1,0 +1,1 @@
+select * from books where author = 'Tan Ah Teck' and qty > 0 order by price desc
