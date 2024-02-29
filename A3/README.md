@@ -28,11 +28,11 @@
 
 *Screenshot of records*:
 
-![customer screenshot](A3/customer.png)
+![customer screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/customer.png)
 
-![pet screenshot](A3/pet.png)
+![pet screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/pet.png)
 
-![petstore screenshot](A3/petstore.png)
+![petstore screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/petstore.png)
 
 
 
