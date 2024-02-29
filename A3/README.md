@@ -28,17 +28,17 @@
 
 *Screenshot of records*:
 
-![customer Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/customer.png)
+![customer screenshot](A3/customer.png)
 
-![pet Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/pet.png)
+![pet screenshot](A3/pet.png)
 
-![petstore Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/petstore.png)
+![petstore screenshot](A3/petstore.png)
 
 
 
 #### File Links:
 
-[a3.mwb](https://bitbucket.org/hsr21a726/lis4368/master/A3/a3.mwb)
+[a3.mwb](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/a3.mwb)
 
-[a3.sql](https://bitbucket.org/hsr21a726/lis4368/master/A3/a3.sql)
+[a3.sql](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/a3.sql)
 
