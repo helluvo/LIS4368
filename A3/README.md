@@ -28,15 +28,15 @@
 
 *Screenshot of records*:
 
-![customer screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/customer.png)
+![customer screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/customer.png)
 
-![pet screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/pet.png)
+![pet screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/pet.png)
 
-![petstore screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/petstore.png)
+![petstore screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/petstore.png)
 
 *Screenshot of index.jsp*
 
-![petstore screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/indexjsp.png)
+![index.jsp screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/indexjsp.png)
 
 
 #### File Links:
