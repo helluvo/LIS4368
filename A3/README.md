@@ -24,15 +24,15 @@
 
 *Screenshot of A3 ERD*:
 
-![A3 ERD](https://bitbucket.org/hsr21a726/lis4368/master/A3/ERD.png)
+![A3 ERD](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/ERD.png)
 
 *Screenshot of records*:
 
-![customer Screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/customer.png)
+![customer Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/customer.png)
 
-![pet Screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/pet.png)
+![pet Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/pet.png)
 
-![petstore Screenshot](https://bitbucket.org/hsr21a726/lis4368/master/A3/petstore.png)
+![petstore Screenshot](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/petstore.png)
 
 
 
