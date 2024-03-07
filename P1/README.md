@@ -22,15 +22,15 @@
 
 *Screenshot of Main Page*:
 
-![Main Page Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/queryResults.png)
+![Main Page Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/d4eb50390261d6439e3475d4aa4114e254cb5f33/P1/mainPage.png)
 
 *Screenshot of Failed Validation*:
 
-![Failed Validation](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/failedValidation.png)
+![Failed Validation](https://bitbucket.org/hsr21a726/lis4368/raw/d4eb50390261d6439e3475d4aa4114e254cb5f33/P1/failedValidation.png)
 
 *Screenshot of Passed Validation*:
 
-![Passed Validation Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/queryResults.png)
+![Passed Validation Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/d4eb50390261d6439e3475d4aa4114e254cb5f33/P1/passedValidation.png)
 
 *Screenshots of Skill Sets*:
 
@@ -42,8 +42,8 @@
 
 
 
-#### Links:
+#### Links to P1
 
-[http://localhost:9999/hello](http://localhost:9999/hello)
+[http://localhost:9999/lis4368_starter_files/p1/index.jsp](http://localhost:9999/lis4368_starter_files/p1/index.jsp)
 
 
