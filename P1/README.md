@@ -11,10 +11,10 @@
 
 #### README.md file should include the following items:
 
-    - modify index.jsp for jQuery validation
-    - regexp to set character limitations
-    - HTML5 to set character limitations
-    - Skillsets 7-9
+    - screenshot of main page
+    - screenshot of failed validation
+    - screenshot of passed validaiton
+    - screenshots of skillsets 7-9
 
 >
 
@@ -34,11 +34,11 @@
 
 *Screenshots of Skill Sets*:
 
-![Skillset 7 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/a21.png)
+![Skillset 7 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/914125a9c0251aac7d2404879e83d16c66be8bae/P1/Q7.png)
 
-![Skillset 8 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/a22.png)
+![Skillset 8 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/914125a9c0251aac7d2404879e83d16c66be8bae/P1/Q8.png)
 
-![Skillset 9 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/master/A2/a22.png)
+![Skillset 9 Screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/914125a9c0251aac7d2404879e83d16c66be8bae/P1/Q9.png)
 
 
 
