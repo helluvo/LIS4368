@@ -7,42 +7,36 @@
 
 ## Hanna Rojo
 
-### Assignment #3 Requirements:
+### Assignment #4 Requirements:
 
 #### README.md file should include the following items:
 
-- Screenshot of ERD;
-- Screenshots of 10 records for each table, use select * from each table;
-- Screenshot of a3/index.jsp
-- Links to the following files:
-- a3.mwb
-- a3.sql
+- Screenshot of passed validation
+- Screenshot of failed validation
+- Skillsets 10-12
 
 >
 
 #### Assignment Screenshots:
 
-*Screenshot of A3 ERD*:
+*Screenshot of Passed Validation*:
 
-![A3 ERD](https://bitbucket.org/hsr21a726/lis4368/raw/621498eaeba9ccc333b9a676a47b40f5ad6a6114/A3/ERD.png)
+![Passed Validation](https://bitbucket.org/hsr21a726/lis4368/raw/ba5d1eb85e06652ba9f7a08628bce8a8f4e3ce5f/A4/passedVerification.png)
 
-*Screenshot of records*:
+*Screenshot of Failed Validation*:
 
-![customer screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/621498eaeba9ccc333b9a676a47b40f5ad6a6114/A3/customer.png)
+![Failed Validation](https://bitbucket.org/hsr21a726/lis4368/raw/ba5d1eb85e06652ba9f7a08628bce8a8f4e3ce5f/A4/failedVerification.png)
 
-![pet screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/621498eaeba9ccc333b9a676a47b40f5ad6a6114/A3/pet.png)
+*Screenshot of Skillset 10*
 
-![petstore screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/621498eaeba9ccc333b9a676a47b40f5ad6a6114/A3/petstore.png)
+![skillset 10](https://bitbucket.org/hsr21a726/lis4368/raw/ba5d1eb85e06652ba9f7a08628bce8a8f4e3ce5f/A4/Q10.png)
 
-*Screenshot of index.jsp*
+*Screenshot of Skillset 11*
 
-![index.jsp screenshot](https://bitbucket.org/hsr21a726/lis4368/raw/621498eaeba9ccc333b9a676a47b40f5ad6a6114/A3/indexjsp.png)
+![skillset 11](https://bitbucket.org/hsr21a726/lis4368/raw/ba5d1eb85e06652ba9f7a08628bce8a8f4e3ce5f/A4/Q11.png)
+
+*Screenshot of Skillset 12*
+
+![skillset 12](https://bitbucket.org/hsr21a726/lis4368/raw/ba5d1eb85e06652ba9f7a08628bce8a8f4e3ce5f/A4/Q12.png)
 
 
-#### File Links:
-
-[a3.mwb](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/a3.mwb)
-
-[a3.sql](https://bitbucket.org/hsr21a726/lis4368/src/master/A3/a3.sql)
-
-#### --------

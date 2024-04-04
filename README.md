@@ -26,7 +26,14 @@
     - ERD screenshots
 
 4. [P1 README.md](P1/README.md "My P1 README.md file")
-    - modify index.jsp for jQuery validation
-    - regexp to set character limitations
+    - Modify index.jsp for jQuery validation
+    - Regexp to set character limitations
     - HTML5 to set character limitations
     - Skillsets 7-9
+
+5. [A4 README.md](A4/README.md "My A4 README.md file")
+    - Server-side validation
+    - MVC Framework
+    - Skillsets 7-9
+
+    
