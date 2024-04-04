@@ -7,7 +7,7 @@ public class Methods
     public static void getRequirements() 
     {
         System.out.println(); // print blank line
-        System.out.println("Developer: Carson Darrow" );
+        System.out.println("Developer: Hanna Rojo" );
         System.out.println("Program Requirements: ");
         System.out.println("1. Calculates amount of money saved for a period of years, at a *monthly* compounded interest rate.");
         System.out.println("2. Returned amount is formatted in U.S. currency, and rounded to two decimal places");
