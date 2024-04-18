@@ -36,4 +36,8 @@
     - MVC Framework
     - Skillsets 10-12
 
+6. [A5 README.md](A5/README.md "My A5 README.md file")
+    - Created data files in crud subdirectory
+    - Update database through customerform.jsp
+    - Skillsets 13-15
     
