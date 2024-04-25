@@ -40,4 +40,9 @@
     - Created data files in crud subdirectory
     - Update database through customerform.jsp
     - Skillsets 13-15
+
+7. [P2 README.md](P2/README.md "My P2 README.md file")
+    - CRUD functionality 
+    - Include server-side form validation
+    - Re-compile CustomerServlet.java
     
