@@ -25,7 +25,7 @@
 
 *screenshot of form entry*:
 
-![screenshot of form entry](https://bitbucket.org/hsr21a726/lis4368/raw/c8902cf4d6e9ca1a2b0054c5b9f8151f1f9fac9d/P2/validFormEntry.png)
+![screenshot of form entry](https://bitbucket.org/hsr21a726/lis4368/raw/c8902cf4d6e9ca1a2b0054c5b9f8151f1f9fac9d/P2/validFormEntry.png)![screenshot of passed validation](https://bitbucket.org/hsr21a726/lis4368/raw/c8902cf4d6e9ca1a2b0054c5b9f8151f1f9fac9d/P2/passedValidation.png)
 
 *screenshot of passed validation*:
 
@@ -53,4 +53,4 @@
 
 #### Links to P2
 
-[http://localhost:9999/lis4368_starter_files/p2_student_files/index.jsp](http://localhost:9999/lis4368_starter_files/p2_student_files/index.jsp)
+[http://localhost:9999/lis4368_starter_files/p2_student_files/index.jsp](http://localhost:9999/lis4368_starter_files/customerform.jsp?assign_num=p2)
