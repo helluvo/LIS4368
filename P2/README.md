@@ -53,4 +53,4 @@
 
 #### Links to P2
 
-[http://localhost:9999/lis4368_starter_files/p2_student_files/index.jsp](http://localhost:9999/lis4368_starter_files/customerform.jsp?assign_num=p2)
+[http://localhost:9999/lis4368_starter_files/customerform.jsp?assign_num=p2](http://localhost:9999/lis4368_starter_files/customerform.jsp?assign_num=p2)
